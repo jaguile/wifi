@@ -63,3 +63,4 @@ Important executar la comanda amb el canal que correspongui amb el canal del pun
 Aquest pas és si el pas 2 no ha funcionat.
 
 ## Pas 4. Executar aircrack-ng per craquejar la PSK
+todo
